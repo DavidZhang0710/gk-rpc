@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/gk-rpc-client/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-client/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-codec/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-codec/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-common/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-common/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-example/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-example/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-proto/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-proto/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-server/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-server/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-transport/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gk-rpc-transport/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-codec/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-codec/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-proto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-proto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-transport/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EasyRPC-transport/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
